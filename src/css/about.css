@@ -1,0 +1,24 @@
+.about-section {
+  background: #f3f3f3;
+  border-radius: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.about-container-text {
+  padding: 40px 20px 168px 20px;
+}
+.about-title {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  padding-bottom: 28px;
+}
+.about-text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.28571;
+  letter-spacing: -0.02em;
+  color: rgba(12, 12, 12, 0.7);
+  max-width: 295px;
+}
