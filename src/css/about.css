@@ -69,6 +69,27 @@
   .about-img {
     border-radius: 50px;
     max-width: 704px;
+    width: 100%;
+  }
+}
+/*----Desktop styles----*/
+@media only screen and (min-width: 1280px) {
+  .about-wrapper {
+    flex-direction: row;
+  }
+  .about-container {
+    width: 530px;
+    height: 532px;
+  }
+  .about-img-container {
+    width: 50%;
+  }
+  .about-text {
+    max-width: 460px;
+  }
+  .about-img {
+    width: 530px;
+    height: 532px;
   }
   .about-button-link {
     margin-left: 60px;
