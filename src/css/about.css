@@ -96,7 +96,7 @@
     margin-bottom: 80px;
   }
 }
-/*----Desktop styles----*/
+/*-----Desktop styles----*/
 @media only screen and (min-width: 1280px) {
   .about-wrapper {
     flex-direction: row;
